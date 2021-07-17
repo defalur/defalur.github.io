@@ -1,0 +1,26 @@
+#lsi: false
+#safe: true
+#source: "defalur.github.io"
+#incremental: false
+#highlighter: rouge
+#gist:
+#  noscript: false
+#kramdown:
+#  math_engine: mathjax
+#  syntax_highlighter: rouge
+
+title: Adventures in programming
+#email:
+#description: >- # this means to ignore newlines until "baseurl:"
+#  Hi! Here you will find things about my personal projects and my discoveries
+#  along the way.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://github.com/defalur" # the base hostname & protocol for your site, e.g. http://example.com
+#twitter_username: jekyllrb
+github_username:  defalur
+linkedin_username: defalur
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed

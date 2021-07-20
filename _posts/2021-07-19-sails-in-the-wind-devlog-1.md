@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sails in the wind, Devlog 1"
-date:   2021-07-17 01:10:00 +0200
+date:   2021-07-20 21:48:00 +0200
 categories: devlog update
 visible: 1
 ---

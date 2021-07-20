@@ -24,3 +24,4 @@ linkedin_username: defalur
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-target-blank
